@@ -14,6 +14,6 @@ sudo chmod 0755 Scratch.sh
 ```
 Ejecutamos el script con permisos de super usuario  usamos el comando:
 ```
-sudo ./ Scratch.sh
+sudo ./Scratch.sh
 ```
 Preguntas o sugerencias: asuskf@protonmail.com
